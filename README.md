@@ -1,7 +1,5 @@
-# Health-Identity-Integrator-
-This Java Swing executable .jar file can retrieve useful information from database and display if the user is eligible for proceeding an application for a job.
-
 # Health Identity Integrator (HID)
+This Java Swing executable .jar file can retrieve useful information from database and display if the user is eligible for proceeding an application for a job.
 
 This project is a simple Java Swing application that helps assess a candidate's health information for either a Driving License or Army eligibility. It interacts with other classes (`porg` and `army`) to perform checks based on the user's input (Aadhaar number).
 
